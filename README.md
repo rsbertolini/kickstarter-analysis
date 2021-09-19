@@ -10,7 +10,7 @@ and analyze factors that contribute to the success or failure of the campaign.
 Our first objective was to look at campaigns in the Theater Category and analyze the outcomes based on the month that the campaign launched.  Although, a large number of campaigns were 
 launched in the second quarter, for the most part the percentage success rate hovered between 50-65% for every month.  There is not a significant conclusion I can make  
 to what month to launch in as I felt the rate of success was pretty evenly spread over the months and there wasn't a great difference in the success rates for any given month.
-!(Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
