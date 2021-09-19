@@ -10,6 +10,7 @@ and analyze factors that contribute to the success or failure of the campaign.
 Our first objective was to look at campaigns in the Theater Category and analyze the outcomes based on the month that the campaign launched.  Although, a large number of campaigns were 
 launched in the second quarter, for the most part the percentage success rate hovered between 50-65% for every month.  There is not a significant conclusion I can make  
 to what month to launch in as I felt the rate of success was pretty evenly spread over the months and there wasn't a great difference in the success rates for any given month.
+
 ![Theater Outcomes vs Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 
@@ -17,7 +18,8 @@ to what month to launch in as I felt the rate of success was pretty evenly sprea
 Play campaigns had the highest level of success if their goal was under $5,000, with almost 70% of campaigns being under this level.  
 As the goal amount increased, the failure rate did as well.  There was an uptick in success at the $35,000-$45,000 campaign goal level but very 
 limited numbers of campaigns to analyze so it could be a bit of an outlier.
-!(Resources/Outcomes_vs_Goals.png)
+
+![Play Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -43,4 +45,4 @@ that all goal amounts had been converted to US Dollars since some campaigns in t
 
 - What are some other possible tables and/or graphs that we could create?
 I calculated average success rate by month for subcategory Plays and that led me to the conclusion that the success rate didn't vary much by month.
-!(Resources/Percent_successful_by_Month.png)
+![Percent Successful by Month](/Resources/Percent_successful_by_Month.png)
