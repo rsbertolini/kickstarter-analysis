@@ -29,20 +29,21 @@ However, if you do some further calculations on percent success rates, you find 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1.  The month a campaign is launched in does not make much of a difference on success.  The majority of months, campaigns met their goal amount 50-65% of the time.
-2.  The worst quarter was the 4th quarter with a success rate of 56%.  The best quarter was the 2nd quarter with a success rate of 65%.
+-- The month a campaign is launched in does not make much of a difference on success.  The majority of months, campaigns met their goal amount 50-65% of the time.
+-- The worst quarter was the 4th quarter with a success rate of 56%.  The best quarter was the 2nd quarter with a success rate of 65%.
 
 - What can you conclude about the Outcomes based on Goals?
-Louise's campaign goal of $10,000 is high compared to similar play campaigns.  She may have a better chance of success if she were able to cut her goal in half.
+-- Louise's campaign goal of $10,000 is high compared to similar play campaigns.  She may have a better chance of success if she were able to cut her goal in half.
 With her goal amount of $10,000 she would have a 50% chance of success compared to similar campaigns.  
 
 
 - What are some limitations of this dataset?
-Other than average donation, we don't have a lot of statistics on the donation amounts so it is hard to know the spread of donation amounts and if a few high dollar
+-- Other than average donation, we don't have a lot of statistics on the donation amounts so it is hard to know the spread of donation amounts and if a few high dollar
 donations led to the success of campaigns.  Having the median donation amount would have been helpful to know how spread out donation amounts were.  I also had to make the assumption
 that all goal amounts had been converted to US Dollars since some campaigns in this dataset were from other countries.
 
 
 - What are some other possible tables and/or graphs that we could create?
-I calculated average success rate by month for subcategory Plays and that led me to the conclusion that the success rate didn't vary much by month.
+-- I calculated average success rate by month for subcategory Plays and that led me to the conclusion that the success rate didn't vary much by month.
+
 ![Percent Successful by Month](/Resources/Percent_successful_by_Month.png)
